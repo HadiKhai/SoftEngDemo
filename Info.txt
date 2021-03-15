@@ -1,3 +1,4 @@
 Name:Georgio 
-Color: blue
+Color: green
 Uni:LAU
+Major:COE
