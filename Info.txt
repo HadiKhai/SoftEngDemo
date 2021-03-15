@@ -2,3 +2,4 @@ Name:Georgio
 Color: green
 Uni:LAU
 Major:COE
+Location:Jbeil
